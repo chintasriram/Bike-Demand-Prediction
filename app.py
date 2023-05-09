@@ -4,6 +4,7 @@ from flask import Flask, request, jsonify, render_template
 import seaborn as sns  
 import pickle
 import model
+import math
 
 app= Flask(__name__, static_url_path='/static')
 my_model=pickle.load(open('model.pkl', 'rb'))
@@ -89,7 +90,7 @@ def predict():
     #Prediction of the trained model
     prediction= my_model.predict(df)
     #Output derived from the ML model
-    output= round(prediction[0], 2)
+    output= math.ceil(prediction[0])
 
     #Output sent to the html page
     return render_template('index.html', prediction_text='Prediction: \n {} bikes are needed.'.format(output))
