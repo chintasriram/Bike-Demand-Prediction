@@ -8,7 +8,7 @@ Prediction of Rental Bikes Count using ML algorithm <br/> <br/>
 2. Tejasree Goli (SJSU ID: )
 * Email: 
 3. Sai Subhash Chandra Reddy Gangireddygari (SJSU ID: )
-* Email: 
+* Email: saisubhashchandrareddy.gangireddygari@sjsu.edu
 4. Sri Ram Chinta (SJSU ID: 016002506)
 * Email: sriram.chinta@sjsu.edu
 
