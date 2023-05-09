@@ -14,7 +14,7 @@ Prediction of Rental Bikes Count using ML algorithm <br/> <br/>
 
 ## [Dataset from Kaggle ](https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset?search=bike+demand+Washington)
 ## Deployment on Heroku:<br/> 
-https://cmpe255-rental-bike-prediction.herokuapp.com/
+https://
    
 ## Web App Snippets:
 <p float="left">
