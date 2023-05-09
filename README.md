@@ -84,7 +84,7 @@ There are a large number of machine learning models used in the prediction of th
 [Google Colab Link ](https://colab.research.google.com/drive/19FeEZDLix2tJ6zCXj2BkHOuVItCBJ0si#scrollTo=DAW3nWDuVMqj)
 
 ## Steps to run locally:
-1) git clone ``` https://github.com/shubhadapaithankar/Prediction-of-Bike-Rental-Count.git ```
+1) git clone ``` https://github.com/chintasriram/Bike-Rental-Prediction.git ```
 2) ``` cd Prediction-of-Bike-Rental-Count```
 3) Install the python dependencies using ``` pip install -r requirements.txt ```
 4)  Now, run the applictaion using either of the commands ```python app.py``` or ```flask run```
@@ -100,8 +100,7 @@ Since the current dataset only includes data for Washington, D.C., our future go
 
 ### Project Documents:
 
-* [__Project_Report/Document__](https://github.com/shubhadapaithankar/Prediction-of-Bike-Rental-Count/blob/main/Prediction-of-Bike-Rental-Count-Report-Tema20.pdf)
-* [__Colab_Notebook__](https://github.com/shubhadapaithankar/Prediction-of-Bike-Rental-Count/blob/main/Rental_bikes_count_Prediction_Model_Comparison.ipynb)
+* [__Colab_Notebook__](https://github.com/chintasriram/Bike-Rental-Prediction.git/blob/main/Rental_bikes_count_Prediction_Model_Comparison.ipynb)
 
 ### Reference:
 1) https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset?search=bike+demand+Washington
