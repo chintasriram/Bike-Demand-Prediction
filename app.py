@@ -92,7 +92,7 @@ def predict():
     output= round(prediction[0], 2)
 
     #Output sent to the html page
-    return render_template('index.html', prediction_text='Prediction: \n {} bike rents.'.format(output))
+    return render_template('index.html', prediction_text='Prediction: \n {} bikes are needed.'.format(output))
 
 if __name__=="__main__":
     app.run(debug=True)
