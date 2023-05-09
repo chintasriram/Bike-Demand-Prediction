@@ -100,7 +100,7 @@ Since the current dataset only includes data for Washington, D.C., our future go
 
 ### Project Documents:
 
-* [__Colab_Notebook__](https://github.com/chintasriram/Bike-Rental-Prediction.git/blob/main/Rental_bikes_count_Prediction_Model_Comparison.ipynb)
+* [__Colab_Notebook__](https://github.com/chintasriram/Bike-Demand-Prediction/blob/main/Rental_bikes_count_Prediction_Model_Comparison.ipynb)
 
 ### Reference:
 1) https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset?search=bike+demand+Washington
