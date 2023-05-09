@@ -4,17 +4,17 @@ Prediction of Rental Bikes Count using ML algorithm <br/> <br/>
 
 ## Team information  :
 1. Dhruva Maheshbhai Gajera (SJSU ID: 016040934)
-* Email: 
-2. Tejasree Goli (SJSU ID: 016040986)
+* Email: dhruvamaheshbhai.gajera@sjsu.edu
+2. Teja Sree Goli (SJSU ID: 016040986)
 * Email: tejasree.goli@sjsu.edu
 3. Sai Subhash Chandra Reddy Gangireddygari (SJSU ID: 016003403)
-* Email: 
+* Email: saisubhashchandrareddy.gangireddygari@sjsu.edu
 4. Sri Ram Chinta (SJSU ID: 016002506)
 * Email: sriram.chinta@sjsu.edu
 
 ## [Dataset from Kaggle ](https://www.kaggle.com/datasets/marklvl/bike-sharing-dataset?search=bike+demand+Washington)
 ## Deployment on Heroku:<br/> 
-https://
+https://bikedemand.herokuapp.com/
    
 ## Web App Snippets:
 <p float="left">
