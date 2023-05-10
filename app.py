@@ -23,7 +23,7 @@ def predictionpage():
 
 @app.route('/predict', methods=['POST'])
 def predict():
-
+    month={1.0:'Jan',2.0:'Feb',3.0:'Mar',4.0:'Apr',5.0:'May',6.0:'June',7.0:'Jul',8.0:'Aug',9.0:'Sep',10.0:'Oct',11.0:'Nov',12.0:'Dec'}
 #fetching the input values
     input_values = [float(i) for i in request.form.values()]  
  #This will form the input row    
