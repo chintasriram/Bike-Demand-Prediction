@@ -38,6 +38,9 @@ def predict():
 
     def creating_input_to_model(dict):
         df_dict = {}
+        print("sriram")
+        print(dict['Month'][0])
+        print(month[dict['Month'][0]])
         if dict['weather']==[1.0]:
             df_dict['Best']=[1.0]
             df_dict['Neutral']=[0.0]
@@ -66,12 +69,15 @@ def predict():
             df_dict['summer'] = [0.0]
 
         df_dict['hum']=dict['hum']
-
+        
         if dict['Month']==[7.0]:
             df_dict['Jul']=[1.0]
             df_dict['Sep']=[0.0]
         elif dict['Month']==[9.0]:
             df_dict['Jul'] = [0.0]
+            df_dict['Sep'] = [1.0]
+        elif dict['Month']==[1.0]:
+            df_dict['Jul'] = [1.0]
             df_dict['Sep'] = [1.0]
         else:
             df_dict['Jul'] = [0.0]
